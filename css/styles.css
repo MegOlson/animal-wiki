@@ -1,0 +1,14 @@
+img {
+  width: 250px;
+}
+
+.dog-text, .panda-text, .turtle-text {
+  display: none;
+}
+.showText {
+  display: block;
+}
+select {
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
